@@ -1,12 +1,12 @@
-// src/Main.jsx
+// Main.jsx
 import React from 'react';
 import { View, StyleSheet } from 'react-native';
-import RepositoryList from './RepositoryList';
+import RepositoryList from './RepositoryList'; // Import RepositoryList
 
 const Main = () => {
   return (
     <View style={styles.container}>
-      <RepositoryList />
+      <RepositoryList />  {/* Render the repository list */}
     </View>
   );
 };
@@ -14,8 +14,9 @@ const Main = () => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#f0f0f0',
-    padding: 10,
+    backgroundColor: '#e1e4e8',
+    paddingTop: 10,
+    paddingHorizontal: 10,
   },
 });
 

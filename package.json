@@ -4,5 +4,8 @@
     "eslint": "^8.57.1",
     "eslint-plugin-react": "^7.37.3",
     "eslint-plugin-react-native": "^4.1.0"
+  },
+  "dependencies": {
+    "react-router-native": "^6.28.1"
   }
 }
