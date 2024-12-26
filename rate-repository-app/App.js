@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React from 'react';
 import { Text, StyleSheet, View } from 'react-native';
 import Constants from 'expo-constants';
@@ -24,4 +25,12 @@ const App = () => {
   );
 };
 
+=======
+import Main from './src/components/Main';
+
+const App = () => {
+  return <Main />;
+};
+
+>>>>>>> d2ad2326e39b2f8085bbc7d26351d37aed20eb18
 export default App;
