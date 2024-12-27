@@ -1,0 +1,1 @@
+localhost (hoặc chạy ứng dụng React Native trên máy tính của bạn) thường áp đảo hoàn toàn và quyền lực hơn trong quá trình phát triển lâu dài, đặc biệt là đối với các dự án phức tạp và yêu cầu nhiều tính năng nâng cao.
