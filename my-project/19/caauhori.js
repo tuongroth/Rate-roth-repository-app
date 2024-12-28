@@ -1,0 +1,1 @@
+sự khác biệt có công cụ và k có: mất trắng
