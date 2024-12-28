@@ -13,3 +13,10 @@ syncho (Tuần tự 5000)
 miracle: do you like, TE: good at mathemtic 
 velocity: fetch 200 or 404. correct output 
 me before really hate myself-myself is enough health is best
+
+unseen key pair hash and bam 
+github and MessageChannel
+progammer and 
+
+self doubt and less confuse 
+duplicated 
