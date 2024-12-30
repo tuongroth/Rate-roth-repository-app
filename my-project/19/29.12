@@ -1,0 +1,84 @@
+1. Lên kế hoạch và chuẩn bị
+Nhiệm vụ 1: Đọc hướng dẫn dự án
+
+Hiểu rõ phạm vi, yêu cầu và hướng dẫn của dự án.
+Nhiệm vụ 2: Quyết định về Tech Stack
+
+Lựa chọn giữa React, React Native, Node.js, Vue.js, Firebase hoặc bất kỳ công nghệ nào khác.
+Hãy xem xét công nghệ nền tảng (dịch vụ tự tạo hoặc của bên thứ ba như Firebase).
+Nhiệm vụ 3: Xác định các tính năng của ứng dụng
+
+Lên kế hoạch cho các tính năng cốt lõi mà bạn muốn triển khai (ví dụ: hoạt động CRUD, tích hợp cơ sở dữ liệu).
+Để có tín dụng cao hơn, hãy lên kế hoạch cho các tính năng nâng cao (ví dụ: xác thực, thông báo, v.v.).
+Nhiệm vụ 4: Thiết lập kho lưu trữ dự án
+
+Tạo kho lưu trữ GitHub cho dự án.
+Nếu sử dụng nhiều kho lưu trữ (ví dụ: cho giao diện người dùng và giao diện quản trị), hãy thiết lập chúng cho phù hợp.
+Nhiệm vụ 5: Tạo tài liệu chấm công
+
+Thiết lập tài liệu chấm công (định dạng .md hoặc .pdf).
+Hãy làm theo ví dụ ở đây để tham khảo.
+Bao gồm tổng số giờ đã sử dụng và cập nhật tài liệu này thường xuyên.
+2. Giai đoạn phát triển
+Nhiệm vụ 6: Thiết lập môi trường phát triển
+
+Cài đặt các công cụ cần thiết (ví dụ: Node.js, Firebase, React Native, v.v.).
+Khởi tạo dự án và tạo cấu trúc kho lưu trữ.
+Nhiệm vụ 7: Bắt đầu triển khai các tính năng cơ bản
+
+Triển khai các tính năng cốt lõi như hoạt động CRUD và kết nối cơ sở dữ liệu cơ bản.
+Nhiệm vụ 8: Thêm các tính năng nâng cao
+
+Nếu muốn đạt điểm tín dụng cao hơn, hãy triển khai các tính năng nâng cao như xác thực, tìm kiếm, thông báo, v.v.
+Nhiệm vụ 9: Định dạng ứng dụng
+
+Thiết kế và triển khai UI bằng CSS, Material UI, Tailwind CSS hoặc một khung thiết kế khác.
+Đảm bảo ứng dụng có khả năng phản hồi nhanh và thân thiện với người dùng.
+Nhiệm vụ 10: Cam kết thường xuyên
+
+Đảm bảo mỗi tính năng mới hoặc bản sửa lỗi đều được cam kết kèm theo thông điệp có ý nghĩa.
+Giữ lịch sử cam kết sạch sẽ và hợp lý để phù hợp với việc theo dõi thời gian.
+Nhiệm vụ 11: Kiểm tra ứng dụng
+
+Viết các bài kiểm tra đơn vị, kiểm tra tích hợp và/hoặc kiểm tra đầu cuối để đảm bảo mọi thứ hoạt động chính xác.
+Kiểm tra ứng dụng trên nhiều trình duyệt hoặc thiết bị khác nhau.
+3. Giai đoạn triển khai
+Nhiệm vụ 12: Triển khai ứng dụng
+
+Triển khai giao diện người dùng tới các nền tảng như Vercel, Netlify hoặc nền tảng tương tự.
+Đối với phần phụ trợ (nếu có), hãy triển khai bằng các dịch vụ như Firebase, AWS hoặc Heroku.
+Nhiệm vụ 13: Đảm bảo ứng dụng hoạt động sau khi triển khai
+
+Xác minh rằng tất cả các tính năng đều hoạt động như mong đợi trên ứng dụng trực tiếp.
+Kiểm tra phiên bản đã triển khai để xem có vấn đề nào liên quan đến lưu trữ hoặc cấu hình máy chủ không.
+4. Giai đoạn lập tài liệu
+Nhiệm vụ 14: Viết tệp README
+
+Cung cấp lời giải thích ngắn gọn về dự án, mục đích và chức năng của dự án.
+Bao gồm hướng dẫn sử dụng ứng dụng.
+Thêm liên kết đến phiên bản đã triển khai của ứng dụng.
+Nhiệm vụ 15: Liên kết tài liệu chấm công
+
+Cung cấp liên kết trực tiếp đến tài liệu chấm công (không cần tải xuống).
+Đảm bảo việc theo dõi thời gian bao gồm tổng số giờ dành cho dự án.
+Nhiệm vụ 16: Sửa đổi tài liệu
+
+Ghi lại các tính năng được lấy cảm hứng từ hướng dẫn và những thay đổi bạn đã thực hiện.
+Bao gồm giải thích về những sửa đổi và cách chúng cải thiện dự án.
+Nhiệm vụ 17: Cung cấp tài liệu rõ ràng về các tính năng
+
+Mô tả rõ ràng các tính năng chính của dự án và bất kỳ triển khai độc đáo nào (ví dụ: API tùy chỉnh, tích hợp nâng cao).
+5. Nộp bài và chấm điểm cuối cùng
+Nhiệm vụ 18: Nộp đơn xin chấm điểm
+
+Đảm bảo tất cả tài liệu và hồ sơ dự án đều theo thứ tự.
+Thực hiện theo hướng dẫn nộp dự án như mô tả trong phần chấm điểm (đăng ký, điền vào biểu mẫu và gửi email cho người hướng dẫn).
+Nhiệm vụ 19: Đảm bảo GitHub Repository có thể trình bày được
+
+Dọn dẹp cơ sở mã: xóa mã không sử dụng, các phần được chú thích hoặc các tệp không liên quan.
+Đảm bảo kho lưu trữ của bạn phản ánh các tiêu chuẩn chuyên nghiệp với mã rõ ràng, dễ đọc và các cam kết có ý nghĩa.
+Nhiệm vụ 20: Thêm cộng tác viên (nếu làm việc theo nhóm)
+
+Nếu làm việc theo nhóm, hãy thêm cộng tác viên vào kho lưu trữ GitHub.
+Mỗi thành viên trong nhóm phải theo dõi số giờ làm việc của mình.
+Bản phân tích này cung cấp phương pháp tiếp cận có cấu trúc cho dự án, đảm bảo bạn có thể quản lý thời gian hiệu quả và đáp ứng mọi yêu cầu để nộp bài.
