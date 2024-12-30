@@ -1,0 +1,51 @@
+Here’s a structured table organized by the three different principles as you described:
+
+### 1. Latest Repositories (ordered by `createdAt` with the latest on top)
+
+| Event                                               | Description                                                                                           | Created At   | Rating Average |
+|-----------------------------------------------------|-------------------------------------------------------------------------------------------------------|--------------|----------------|
+| Therapy feedback and self-reflection                | Therapist commends your resilience and quick progress; self-validates independence                    | 2024-10-31   | 9              |
+| Follow-up email with feedback from boss             | Follow-up email includes feedback from boss, likely on performance improvements                       | 2024-11-02   | 8              |
+| Preparing for project work after IT completion      | Completed foundational IT education, preparing for professional application                           | 2024-11-12   | 9              |
+| Nurse conversation about IP address and independence| Nurse talks about IP address duration, adult independence, and problem-solving capability             | 2024-11-06   | 8              |
+| Lateness and indecision about leaving Posti         | Recurring lateness and indecision about leaving job                                                   | 2024-06-04   | 6              |
+| Therapy insight on IT and parental PTSD influence   | IT studies aren’t the issue; parental PTSD affects energy and focus                                  | 2024-05-20   | 8              |
+| First email about personal story and support        | Initial email sent with personal background and support request                                      | 2024-05-19   | 7              |
+| Questioning responsibility for lateness             | Self-reflective moment on habitual lateness, questioning personal vs. parental influence             | 2024-04-24   | 7              |
+| Improved punctuality and focus on mental health     | Report of being punctual; prioritizing mental health                                                 | 2024-09-10   | 9              |
+| Doubts about IT capability                          | Concern over capability in IT without certification, past pressures in Business                      | 2024-07-09   | 7              |
+| Mention of ‘Samu’                                   | Reference to ‘Samu’ without much context                                                             | 2024-10-22   | 7              |
+
+### 2. Highest Rated Repositories (ordered by `ratingAverage` with the highest on top)
+
+| Event                                               | Description                                                                                           | Created At   | Rating Average |
+|-----------------------------------------------------|-------------------------------------------------------------------------------------------------------|--------------|----------------|
+| Therapy feedback and self-reflection                | Therapist commends resilience; self-validates independence                                            | 2024-10-31   | 9              |
+| Preparing for project work after IT completion      | Completion of IT education and preparing for project work                                             | 2024-11-12   | 9              |
+| Improved punctuality and focus on mental health     | Punctual and prioritized mental health                                                                | 2024-09-10   | 9              |
+| Nurse conversation about IP address and independence| Talks about IP duration, adult independence, and problem-solving                                      | 2024-11-06   | 8              |
+| Therapy insight on IT and parental PTSD influence   | IT studies are not the issue; parental PTSD affects energy and focus                                  | 2024-05-20   | 8              |
+| Follow-up email with feedback from boss             | Follow-up email with feedback, possibly on performance improvements                                   | 2024-11-02   | 8              |
+| First email about personal story and support        | Initial email sent about personal background and support request                                      | 2024-05-19   | 7              |
+| Doubts about IT capability                          | Concern about IT capability without certification, past pressures in Business                         | 2024-07-09   | 7              |
+| Questioning responsibility for lateness             | Self-reflective moment on habitual lateness, questioning personal vs. parental influence              | 2024-04-24   | 7              |
+| Mention of ‘Samu’                                   | Reference to ‘Samu’ without much context                                                              | 2024-10-22   | 7              |
+| Lateness and indecision about leaving Posti         | Recurring lateness and indecision about leaving job                                                   | 2024-06-04   | 6              |
+
+### 3. Lowest Rated Repositories (ordered by `ratingAverage` with the lowest on top)
+
+| Event                                               | Description                                                                                           | Created At   | Rating Average |
+|-----------------------------------------------------|-------------------------------------------------------------------------------------------------------|--------------|----------------|
+| Lateness and indecision about leaving Posti         | Recurring lateness and indecision about leaving job                                                   | 2024-06-04   | 6              |
+| First email about personal story and support        | Initial email sent with personal background and support request                                      | 2024-05-19   | 7              |
+| Doubts about IT capability                          | Concern about IT capability without certification, past pressures in Business                         | 2024-07-09   | 7              |
+| Questioning responsibility for lateness             | Self-reflective moment on habitual lateness, questioning personal vs. parental influence              | 2024-04-24   | 7              |
+| Mention of ‘Samu’                                   | Reference to ‘Samu’ without much context                                                              | 2024-10-22   | 7              |
+| Therapy feedback and self-reflection                | Therapist commends resilience; self-validates independence                                            | 2024-10-31   | 9              |
+| Preparing for project work after IT completion      | Completion of IT education and preparing for project work                                             | 2024-11-12   | 9              |
+| Improved punctuality and focus on mental health     | Punctual and prioritized mental health                                                                | 2024-09-10   | 9              |
+| Nurse conversation about IP address and independence| Talks about IP duration, adult independence, and problem-solving                                      | 2024-11-06   | 8              |
+| Therapy insight on IT and parental PTSD influence   | IT studies are not the issue; parental PTSD affects energy and focus                                  | 2024-05-20   | 8              |
+| Follow-up email with feedback from boss             | Follow-up email with feedback, possibly on performance improvements                                   | 2024-11-02   | 8              | 
+
+Each table shows the event, description, date of creation, and rating average arranged by a specified ordering principle.
